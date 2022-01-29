@@ -1,6 +1,6 @@
-# Website development mvc - Software Engineering	department
+# Website development mvc - Software Engineering department
 
-Development of a software department management site (Localhost)
+Develop a site to manage a software department (Localhost)
 
 All	of	the	three	types	of	users	should	get	a	separate	page	view	according	to	their	permissions.
 
