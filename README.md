@@ -1,4 +1,4 @@
-# Website development mvc - Software Engineering department
+# Website development mvc - Software Engineering Department
 
 Develop a software department management site (Localhost)
 
