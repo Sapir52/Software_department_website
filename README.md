@@ -47,3 +47,12 @@ Moed	A exam.
 • Can	update	the	course	grade.
 
 All	data	must	be	managed	in	the	Database	according	to	the	user	permission.	
+
+# Run
+• clone this repository into visual studio.
+
+• go to file -> open -> Project\Solution
+
+• select net.sln
+
+• run the program (press start)
